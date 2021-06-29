@@ -1,0 +1,31 @@
+body {
+  font: "Raleway", sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  background: linear-gradient(to right, green, red);
+  top: 15%;
+}
+
+h1 {
+  font: 600 3.5em "Raleway", sans-serif;
+  width: 100%;
+}
+
+h3 {
+  font: 900 1.5em "Raleway", sans-serif;
+}
+
+.btn {
+  color: #050;
+  margin-top: 2em;
+  font: bold 84% "Raleway", sans-serif;
+  background-color: #fed;
+  border: 1px solid;
+  border-color: #696 #363 #363 #696;
+}
+
+.btn:hover {
+  background-color: rosybrown;
+}
